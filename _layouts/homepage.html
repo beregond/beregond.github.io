@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
-<a href="{{ post_url }}" class="post-card-link">
-    {{ post.title }}
-</a>
+{% for post in site.posts %}
+    <a href="{{ post_url }}">
+        {{ post.title }}
+    </a>
+{% endfor %}

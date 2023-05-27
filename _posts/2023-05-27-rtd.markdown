@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "RTD (rhombic todo list)"
+date:   2023-05-27 14:49:00
+categories: rhombic todo list rtd
+---
+# Todo lists for dilligent scribes
+
+Today most of todo lists are already in phone, but if paper todo lists are still thing for you - you might like this.
+Below you can find system I am working with, as I needed something that covers my needs, is simple to use, easy to recognize but is also visually appealing.
+
+![Possible statuses](/assets/rtd/rtd.jpg)
+
+Of course if you need more statuses, you can extend this, to fit your needs:
+
+![More statuses](/assets/rtd/more.jpg)
+
+(Even more possiblities can come if you go out of the box, but boy, I didn't have enough courage.)
+
+## Template
+
+If you want to print template, you can use diamond character - **◇** - (actually this is rhombus ¯\_(ツ)_/¯) and print this on paper, creating template for daily use.
+
+## Stencil
+
+If you are truly neo-vintage you can also 3d print a stencil for your todo lists:
+
+![Stencil for RTD](/assets/rtd/stencil.jpg)

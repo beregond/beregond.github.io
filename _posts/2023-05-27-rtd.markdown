@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RTD (rhombic todo list)"
-date:   2023-05-27 14:49:00
+date:   2023-05-27 14:49:00 +0200
 categories: rhombic todo list rtd
 ---
 # Todo lists for dilligent scribes
@@ -15,7 +15,7 @@ Of course if you need more statuses, you can extend this, to fit your needs:
 
 ![More statuses](/assets/rtd/more.jpg)
 
-(Even more possiblities can come if you go out of the box, but boy, I didn't have enough courage.)
+(Even more possiblities open if you go out of the box, but boy, I didn't have enough courage.)
 
 ## Template
 

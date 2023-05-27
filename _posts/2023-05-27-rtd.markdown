@@ -3,6 +3,7 @@ layout: post
 title:  "RTD (rhombic todo list)"
 date:   2023-05-27 14:49:00 +0200
 categories: rhombic todo list rtd
+excerpt_separator: <!--end_excerpt-->
 ---
 # Todo lists for dilligent scribes
 
@@ -10,6 +11,8 @@ Today most of todo lists are already in phone, but if paper todo lists are still
 Below you can find system I am working with, as I needed something that covers my needs, is simple to use, easy to recognize but is also visually appealing.
 
 ![Possible statuses](/assets/rtd/rtd.jpg)
+
+<!--end_excerpt-->
 
 Of course if you need more statuses, you can extend this, to fit your needs:
 
@@ -21,8 +24,10 @@ Of course if you need more statuses, you can extend this, to fit your needs:
 
 If you want to print template, you can use diamond character - **◇** - (actually this is rhombus ¯\_(ツ)_/¯) and print this on paper, creating template for daily use.
 
+![RTD in LibreOffice](/assets/rtd/rtd_in_libreoffice.jpg)
+
 ## Stencil
 
-If you are truly neo-vintage you can also 3d print a stencil for your todo lists:
+If you are truly neo-vintage you can also 3d print a stencil for your todo lists - <https://www.thingiverse.com/thing:6047922>
 
 ![Stencil for RTD](/assets/rtd/stencil.jpg)

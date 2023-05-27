@@ -24,7 +24,7 @@ Of course if you need more statuses, you can extend this, to fit your needs:
 
 If you want to print template, you can use diamond character - **◇** - (actually this is rhombus ¯\_(ツ)_/¯) and print this on paper, creating template for daily use.
 
-![RTD in LibreOffice](/assets/rtd/rtd_in_libreoffice.jpg)
+![RTD in LibreOffice](/assets/rtd/rtd_in_libreoffice.png)
 
 ## Stencil
 

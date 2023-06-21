@@ -3,10 +3,9 @@ layout: post
 title:  "RTD (rhombic todo list)"
 date:   2023-05-27 14:49:00 +0200
 categories: rhombic todo list rtd
+description: Todo lists for dilligent scribes
 excerpt_separator: <!--end_excerpt-->
 ---
-# Todo lists for dilligent scribes
-
 Today most of todo lists are already in phone, but if paper todo lists are still thing for you - you might like this.
 Below you can find system I am working with, as I needed something that covers my needs, is simple to use, easy to recognize but is also visually appealing.
 

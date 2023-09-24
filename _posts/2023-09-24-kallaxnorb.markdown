@@ -22,7 +22,10 @@ Although it is smaller - it is also cheaper and fits pretty nice to Kallax from 
 
 ## Parts
 
-First - parts to 3D print - TBD
+First - parts to 3D print - you can download them from [Thingiverse page](https://www.thingiverse.com/thing:6233392):
+  - print **one** template
+  - print **8 left brackets and 8 right brackets per cube** to make 4 shelves (+one from kallax itself) - this will give you space for 5 sorters
+
 
 Second - shelves. I bought ready 30x30cm plywood panels, 8mm thick and painted them.
 
@@ -36,13 +39,13 @@ Steps to do:
 
   - Put screws into bracket holes.
 
-  - Align brackets with template; you can do it yourself with one hand, but if you have someone to help - it will be easier (especially when screwing side with your non-dominant hand) and mount brackets with power screwdriver.
+  - Align bracket with template; you can do it yourself with one hand, but if you have someone to help - it will be easier (especially when screwing side with your non-dominant hand) and mount brackets with power screwdriver.
     ![Mounting](/assets/kallaxnorb/mounting.jpg)
 
   - Once you done you can put panel inside.
     ![Half done](/assets/kallaxnorb/half-done.jpg)
 
-  - Repeat until you have 4 levels, notches on top of brackets will align with next levels.
+  - Repeat until you have 4 levels, notches on top of brackets will align with hinges of next level bracket.
 
   - Then you can cut notches and sacrificial hinges - you can use knife, but if you just lever them and bend - they will break.
     ![Cutting out](/assets/kallaxnorb/cutting-out.jpg)

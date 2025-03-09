@@ -8,6 +8,11 @@ show_title: true
         <h6>{{ post.date }}</h6>
         <h3>{{ post.description }}</h3>
         {{ post.excerpt }}
+        {% if post.content contains '<!--end_excerpt-->' %}
+        <p class="readmore">
+          <a href="{{ post.url }}">Read more &gt;&gt;</a>
+        </p>
+        {% endif %}
     </div>
     <hr />
 {% endfor %}

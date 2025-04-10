@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Clicky with a chance of meltdown"
+date:   2025-04-09 18:46:18 +0200
+categories: 3dprinting rattle mechanism
+description: Small toy to demonstrate rattle mechanism
+excerpt_separator: <!--end_excerpt-->
+---
+
+I needed something that clicks to indicate rotational movement BUT in both ways with the same sound. Turns out it is not that simple, but if you combine two ratchets - you get exactly what you need. The problem is to make it sound EXACTLY the same in both directions - to achieve that I combined them vertically - and for demonstration purposes I made a small fidget toy.
+
+![Fishbone mechanism preview](/assets/fishbone/preview.png)
+
+<!--end_excerpt-->
+
+For details you can check [Thingiverse page](https://www.thingiverse.com/thing:6381675) - there are two versions - including one with handles. As for the note - it makes pretty satisfying fidget toy, but be careful - you can drive your family to the point of meltdown. Also I named it as "fishbone" because it reminds me of it, I bet someone somewhere already named it somehow, but couldn't find reference.
+
+![Ready mechanism](/assets/fishbone/fishbone-mechanism.jpg)
+
+And as honorable mention - prototype graveyard.
+
+![Prototype graveyard](/assets/fishbone/graveyard.jpg)

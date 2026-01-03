@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kallax and norb16 marriage"
-date:   2023-09-24 12:00:00 +0200
+title: "Kallax and norb16 marriage"
+date: 2023-09-24 12:00:00 +0200
 categories: kallax norb16 ikea
 description: Way to store norb16 sorters in kallax cabinets
 excerpt_separator: <!--end_excerpt-->

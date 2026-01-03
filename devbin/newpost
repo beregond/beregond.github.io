@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Check if title is provided
+if [ -z "$1" ]; then
+  echo "Usage: $0 <post-title>"
+  exit 1
+fi
+
+TITLE=$(echo "$1" | tr ' ' '-' | tr '[:upper:]' '[:lower:]' | tr -d ',.')
+
+CURRENT_DATETIME=$(date +"%Y-%m-%d %H:%M:%S %z")
+DATE=$(echo "$CURRENT_DATETIME" | cut -d' ' -f1)
+
+# Create the filename for the post
+FILENAME="_posts/$DATE-$TITLE.md"
+
+# Create the new post file with default front matter
+cat <<EOL > "$FILENAME"
+---
+layout: post
+title: "$1"
+date: $CURRENT_DATETIME
+categories: 
+description: 
+excerpt_separator: <!--end_excerpt-->
+---
+
+Lorem ipsum
+EOL
+
+echo "New post created: $FILENAME"
+
